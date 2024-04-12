@@ -8,4 +8,6 @@ names = (   "Asta",
 )
 
 print(names)
+
+#To check if the data created is a tuple
 print (type(names))
